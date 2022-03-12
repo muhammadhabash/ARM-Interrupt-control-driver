@@ -1,0 +1,8 @@
+IntCtrl.pbi: D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Mcal\IntCtrl.c \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Mcal/../Common/Std_Types.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Mcal/../Common/Platform_Types.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Mcal/../Common/Compiler.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Mcal/IntCtrl.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Mcal/../Config/IntCtrl_Cfg.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Mcal/../Config/../Mcal/IntCtrl_Types.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Mcal/../Common/Mcu_Hw.h

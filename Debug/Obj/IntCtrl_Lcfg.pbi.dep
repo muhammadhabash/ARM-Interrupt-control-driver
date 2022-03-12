@@ -1,0 +1,8 @@
+IntCtrl_Lcfg.pbi: \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Config\IntCtrl_Lcfg.c \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Config/../Common/Std_Types.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Config/../Common/Platform_Types.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Config/../Common/Compiler.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Config/../Mcal/IntCtrl_Types.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Config/../Mcal/../Common/Std_Types.h \
+  D:\Sprints\ARM\ master\ class\Task3\ -\ IntrCtrl\Config/IntCtrl_Cfg.h
